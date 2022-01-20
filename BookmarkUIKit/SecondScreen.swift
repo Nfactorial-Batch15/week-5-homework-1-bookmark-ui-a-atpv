@@ -46,7 +46,7 @@ class SecondScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .init(red: 0.95, green: 0.95, blue: 0.93, alpha: 1)
+        view.backgroundColor = .white
 
         view.addSubview(label)
         
