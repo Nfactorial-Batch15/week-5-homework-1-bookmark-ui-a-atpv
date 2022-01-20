@@ -52,7 +52,7 @@ class SecondScreen: UIViewController {
         
         view.addSubview(label2)
 
-        view.addSubview(but)
+        view.addSubview(button)
         
     }
     
