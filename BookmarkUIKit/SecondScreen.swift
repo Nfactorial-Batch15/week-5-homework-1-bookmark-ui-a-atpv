@@ -31,7 +31,7 @@ class SecondScreen: UIViewController {
         return textView2
     }()
 
-    var but: UIButton = {
+    var buttton: UIButton = {
         let button = UIButton(frame: CGRect(x: 16, y: 710, width: 350, height: 58))
         button.backgroundColor = .black
         button.setTitle("Add bookmark", for: .normal)
